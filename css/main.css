@@ -1,0 +1,67 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+/* header style */
+.header{background: #EFFF79;}
+ul.nav.navbar-nav.navbar-right.nav-inner{padding-top: 20px;}
+.logo img{padding-top: 10px;}
+
+
+ul.nav.navbar-nav.navbar-right.nav-inner a{font-size: 18px;}
+
+.carousel-indicators li{display: none;}
+
+
+.container-alpha{padding-top: 20px;}
+
+.testimonial-des{padding-top: 60px;}
+
+.owl-testimonial-section{margin-top: 30px;}
+
+.client-logo-section{padding: 30px 0; margin-top: 20px; background: #DCDCDC;}
+
+.footer-section{background: #000000;
+padding: 10px 0;}
+
+.footer-nav{background: #000 !important; border: none;
+box-shadow: none;}
+
+.footer-nav ul.nav.navbar-nav li a{  font-size: 16px; color: white;}
+p.copy{padding-top: 15px; color: #fff;}
+
+ p.copy a{color: #fff;}
+
+h3{text-align: center;}
+ 
+ .col-md-2{margin: 0 auto !important;}
+
+ #owl-client .item{
+
+padding: 30px 0px;
+margin: 10px;
+color: #FFF;
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+border-radius: 3px;
+text-align: center;
+}
+
+
+
+.carousel-caption h1{color:#AD1616}
+.col-md-2{text-align: center;}
+
+.glyphicon.glyphicon-chevron-left{display: none;}
+.glyphicon.glyphicon-chevron-right{display: none;}
+
+
+
+
+
+
+
+
+
